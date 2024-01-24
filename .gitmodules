@@ -1,0 +1,3 @@
+[submodule "sample-js"]
+	path = sample-js
+	url = https://github.com/ync-js-nodejs-js/sample-js
